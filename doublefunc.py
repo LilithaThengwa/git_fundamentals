@@ -1,0 +1,1 @@
+print("Will return double")
