@@ -1,1 +1,1 @@
-print("Will return double")
+print("Will return trouble")
